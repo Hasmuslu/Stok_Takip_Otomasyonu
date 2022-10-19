@@ -1,0 +1,32 @@
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.exe.config
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.exe
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.csprojResolveAssemblyReference.cache
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Form1.resources
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Müşteri_Ekleme.resources
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.exe
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.pdb
+c:\users\casper\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Müşteri_Listeleme.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.frmKategori.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.frmMarka.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Ürün_Ekleme.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Urun_Listeleme.resources
+C:\Users\CASPER\documents\visual studio 2015\Projects\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.satislisteleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.exe.config
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.exe
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.pdb
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.exe
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\bin\Debug\Stok_takip_projesi.pdb
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.csprojResolveAssemblyReference.cache
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Form1.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.frmKategori.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.frmMarka.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Müşteri_Ekleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Müşteri_Listeleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Properties.Resources.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.satislisteleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Urun_Listeleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.Ürün_Ekleme.resources
+F:\ALİŞİN\Stok_takip_projesi\Stok_takip_projesi\obj\Debug\Stok_takip_projesi.csproj.GenerateResource.Cache
